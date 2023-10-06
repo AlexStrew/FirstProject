@@ -4,5 +4,8 @@
       <option name="fileTypeOverride" value="3" />
       <option name="fileLocation" value="2" />
     </LanguageOptions>
+    <LanguageOptions name="__TEMPLATE__">
+      <option name="addBlankBefore" value="true" />
+    </LanguageOptions>
   </settings>
 </component>

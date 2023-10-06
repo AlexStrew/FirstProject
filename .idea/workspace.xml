@@ -4,30 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce5b0315-e1ee-4794-aff9-a33661e51d8e" name="Changes" comment="Test">
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/Copyright.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb1/App10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb1/App11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb1/App12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb1/App13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb1/App14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb1/App15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb1/App16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb1/App17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb1/App18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb1/App19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb1/App20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb1/App3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb1/App4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb1/App5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb1/App6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb1/App7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb1/App8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb1/App9.java" afterDir="false" />
+    <list default="true" id="ce5b0315-e1ee-4794-aff9-a33661e51d8e" name="Changes" comment="All tasks complete">
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task1000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task1068.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task1785.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lb1/App1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lb1/App1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lb1/App2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lb1/App2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +26,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AlexStrew&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5af66a18-12bb-4d91-a3eb-a25798e53b9a" />
+        <option name="url" value="https://github.com/AlexStrew/FirstProject.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2WKNRy6V5tnsoAcaOhk2oqxHiOY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -67,52 +63,13 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "/Users/lexnd/IdeaProjects/FirstProject/src/Main.java",
-    "settings.editor.selected.configurable": "copyright.profiles",
+    "settings.editor.selected.configurable": "template.copyright.formatting",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.App20">
-    <configuration name="App16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb1.App16" />
-      <module name="FirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lb1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="App17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb1.App17" />
-      <module name="FirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lb1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="App18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb1.App18" />
-      <module name="FirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lb1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="App19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb1.App19" />
+  <component name="RunManager" selected="Application.Task1785">
+    <configuration name="App11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lb1.App11" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
@@ -137,13 +94,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus.Task1000" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Timus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus.Task1001" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Timus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1785" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus.Task1785" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Timus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1785" />
+        <item itemvalue="Application.Task1001" />
+        <item itemvalue="Application.Task1000" />
+        <item itemvalue="Application.App11" />
         <item itemvalue="Application.App20" />
-        <item itemvalue="Application.App19" />
-        <item itemvalue="Application.App18" />
-        <item itemvalue="Application.App17" />
-        <item itemvalue="Application.App16" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +151,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696477308801</updated>
-      <workItem from="1696477310339" duration="7905000" />
+      <workItem from="1696477310339" duration="8584000" />
+      <workItem from="1696496887142" duration="4597000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <option name="closed" value="true" />
@@ -165,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696477548272</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="All tasks complete">
+      <option name="closed" value="true" />
+      <created>1696487564938</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696487564938</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +201,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="All tasks complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="All tasks complete" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
