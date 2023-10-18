@@ -17,9 +17,23 @@ package Timus;/*
 3 2
 3
  */
+ import java.util.Scanner;
 public class Task1820 {
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
 
+        int n = scanner.nextInt(); // Количество бифштексов
+        int k = scanner.nextInt(); // Количество бифштексов, которые можно жарить одновременно
 
+        int minutes;
+
+        // Если количество бифштексов n <= количеству бифштексов, которые можно жарить одновременно k, то мин количество минут  2.
+        if (n <= k) {
+            minutes = 2;
+        } else {
+            // если нам нужно жарить более бифштексов. Провозился с округлением, тк всегда было в меньшую сторону, а надо было в большую
+            minutes = (2 * n + k - 1) / k;
+        }
+        System.out.println(minutes);
     }
 }

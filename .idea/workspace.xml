@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce5b0315-e1ee-4794-aff9-a33661e51d8e" name="Changes" comment="All tasks complete">
-      <change afterPath="$PROJECT_DIR$/src/Lb2/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb2/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb2/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb2/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb2/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/Task1005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ce5b0315-e1ee-4794-aff9-a33661e51d8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/Task1005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus/Task1607.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/Task1601.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus/Task1601.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/Task1820.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus/Task1820.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,13 +70,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task5">
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb2.Task1" />
+  <component name="RunManager" selected="Application.Task1820">
+    <configuration name="Task1601" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus.Task1601" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lb2.*" />
+          <option name="PATTERN" value="Timus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb2.Task2" />
+    <configuration name="Task1607" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus.Task1607" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lb2.*" />
+          <option name="PATTERN" value="Timus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb2.Task3" />
+    <configuration name="Task1820" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus.Task1820" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lb2.*" />
+          <option name="PATTERN" value="Timus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1820" />
+        <item itemvalue="Application.Task1607" />
+        <item itemvalue="Application.Task1601" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +157,8 @@
       <workItem from="1696477310339" duration="8584000" />
       <workItem from="1696496887142" duration="4597000" />
       <workItem from="1697518143551" duration="777000" />
-      <workItem from="1697518958072" duration="1587000" />
+      <workItem from="1697518958072" duration="3044000" />
+      <workItem from="1697617145322" duration="3429000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <option name="closed" value="true" />
@@ -178,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696487564938</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Pre-commit">
+      <option name="closed" value="true" />
+      <created>1697520797893</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697520797893</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,7 +216,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
     <MESSAGE value="All tasks complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="All tasks complete" />
+    <MESSAGE value="Pre-commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pre-commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
