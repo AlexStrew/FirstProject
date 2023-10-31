@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce5b0315-e1ee-4794-aff9-a33661e51d8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Timus/Task1005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus/Task1607.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Timus/Task1601.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus/Task1601.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Timus/Task1820.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus/Task1820.java" afterDir="false" />
     </list>
@@ -158,7 +156,7 @@
       <workItem from="1696496887142" duration="4597000" />
       <workItem from="1697518143551" duration="777000" />
       <workItem from="1697518958072" duration="3044000" />
-      <workItem from="1697617145322" duration="3429000" />
+      <workItem from="1697617145322" duration="4766000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <option name="closed" value="true" />
@@ -184,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697520797893</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lb2 finished">
+      <option name="closed" value="true" />
+      <created>1697620689675</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697620689675</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,7 +223,8 @@
     <MESSAGE value="Test" />
     <MESSAGE value="All tasks complete" />
     <MESSAGE value="Pre-commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pre-commit" />
+    <MESSAGE value="Lb2 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lb2 finished" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
