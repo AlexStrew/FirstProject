@@ -43,6 +43,7 @@ public class Task10 {
          for (int num : descArray)
          {
              System.out.print(num + " ");
+
          }
     }
 }

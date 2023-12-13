@@ -5,18 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce5b0315-e1ee-4794-aff9-a33661e51d8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lb3/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb3/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb3/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb3/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb3/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb3/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb3/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb3/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb3/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb3/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb3/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb4/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb4/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb4/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb4/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb4/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb4/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb4/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb4/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb4/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb4/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb5/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb5/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb5/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb5/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb5/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb5/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb6/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb6/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb6/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb6/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb6/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb6/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb6/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb6/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb6/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb6/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb7/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb7/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb7/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb7/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb7/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lb3/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lb3/Task10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,29 +84,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/lexnd/IdeaProjects/FirstProject/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "/Users/lexnd/IdeaProjects/FirstProject/src/Main.java",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Task3">
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb3.Example1" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Lb7" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lb7.Main" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lb3.*" />
+          <option name="PATTERN" value="Lb7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb3.Task10" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lb7.Task2" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lb3.*" />
+          <option name="PATTERN" value="Lb7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +134,11 @@
       </method>
     </configuration>
     <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb3.Task3" />
+      <option name="MAIN_CLASS_NAME" value="Lb7.Task3" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lb3.*" />
+          <option name="PATTERN" value="Lb7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb3.Task6" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lb7.Task4" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lb3.*" />
+          <option name="PATTERN" value="Lb7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb3.Task7" />
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lb7.Task5" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lb3.*" />
+          <option name="PATTERN" value="Lb7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task7" />
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.Task10" />
+        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +196,11 @@
       <workItem from="1697518958072" duration="3044000" />
       <workItem from="1697617145322" duration="4766000" />
       <workItem from="1698723936958" duration="4319000" />
-      <workItem from="1699087399714" duration="1778000" />
+      <workItem from="1699087399714" duration="4286000" />
+      <workItem from="1699378780388" duration="648000" />
+      <workItem from="1699694397970" duration="731000" />
+      <workItem from="1702452966104" duration="4000" />
+      <workItem from="1702452982426" duration="9024000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <option name="closed" value="true" />
@@ -209,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698724198277</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lb3 finished">
+      <option name="closed" value="true" />
+      <created>1699089390363</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699089390363</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +284,8 @@
     <MESSAGE value="All tasks complete" />
     <MESSAGE value="Pre-commit" />
     <MESSAGE value="Lb2 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lb2 finished" />
+    <MESSAGE value="Lb3 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lb3 finished" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
