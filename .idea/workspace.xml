@@ -5,41 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce5b0315-e1ee-4794-aff9-a33661e51d8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lb4/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb4/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb4/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb4/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb4/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb4/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb4/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb4/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb4/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb4/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb5/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb5/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb5/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb5/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb5/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb5/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb6/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb6/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb6/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb6/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb6/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb6/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb6/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb6/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb6/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb6/Task9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb7/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb7/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb7/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb7/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb7/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lb3/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lb3/Task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lb7/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lb7/Task5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +167,7 @@
       <workItem from="1699378780388" duration="648000" />
       <workItem from="1699694397970" duration="731000" />
       <workItem from="1702452966104" duration="4000" />
-      <workItem from="1702452982426" duration="9024000" />
+      <workItem from="1702452982426" duration="9330000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <option name="closed" value="true" />
@@ -250,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699089390363</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Lb4-7 finished">
+      <option name="closed" value="true" />
+      <created>1702463858404</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702463858404</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,7 +260,8 @@
     <MESSAGE value="Pre-commit" />
     <MESSAGE value="Lb2 finished" />
     <MESSAGE value="Lb3 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lb3 finished" />
+    <MESSAGE value="Lb4-7 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lb4-7 finished" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
