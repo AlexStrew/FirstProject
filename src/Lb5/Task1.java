@@ -19,7 +19,6 @@ public class Task1 {
         symbol = scanner.next().charAt(0);
     }
 
-
     public int getSymbolCode() { //бэк код символа
         return (int) symbol;
     }

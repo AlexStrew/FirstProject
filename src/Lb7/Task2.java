@@ -16,75 +16,60 @@ package Lb7;/*
 //(целочисленный и текстовый).
 class SuperClass1 {
     private String text;
-
     public SuperClass1(String text) {
         this.text = text;
     }
-
     public void setText() {
         this.text = "Default";
     }
-
     public void setText(String text) {
         this.text = text;
     }
-
     public void setText(int number) {
         this.text = String.valueOf(number);
     }
-
     public void setText(String text, int number) {
         this.text = text + number;
     }
-
     public int getLength() {
         return text.length();
     }
-
     @Override
     public String toString() {
         return "SuperClass: " + text;
     }
 }
-
 class SubClass1 extends SuperClass1 {
     public int number;
-
     public SubClass1(int number, String text) {
         super(text);
         this.number = number;
     }
-
     @Override
     public void setText() {
         super.setText();
         this.number = 0;
     }
-
     @Override
     public void setText(String text) {
         super.setText(text);
         this.number = 0;
     }
-
     @Override
     public void setText(int number) {
         super.setText(number);
         this.number = number;
     }
-
     @Override
     public void setText(String text, int number) {
         super.setText(text, number);
         this.number = number;
     }
-
     @Override
     public String toString() {
         return "SubClass: " + super.toString() + ", number: " + number;
     }
 }
-
 public class Task2 {
     public static void main(String[] args) {
         SuperClass1 superClass = new SuperClass1("Hello");
@@ -92,7 +77,6 @@ public class Task2 {
         superClass.setText("Updated");
         System.out.println(superClass);
         System.out.println("Length: " + superClass.getLength());
-
         SubClass1 subClass = new SubClass1(10, "Sub");
         System.out.println(subClass);
         subClass.setText("Changed");
